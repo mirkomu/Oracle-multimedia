@@ -27,7 +27,7 @@ Plusieurs service géré par des packages **"ORDSYS"**:
 
 # <br /> ==DEMO==!
 
-   1)  l'application finale  
+   1)  l'application  
    3)  package et architecture 
     
    
@@ -40,6 +40,21 @@ Plusieurs service géré par des packages **"ORDSYS"**:
 ## Ce projet peut être téléchargé et consulté sous:  https://github.com/mirkomu/Oracle-multimedia<br />
 
 ---
+
+---
+<!-- template: gaia -->
+
+# ==importation du projet !==
+
+1) importer le projet dans NetBeans(travailIntermediaireMMU.zip)  (file / import projet/ from Zip)
+2) importer et exécuter les packages (OracleDB/package_OracleImg body et  package_OracleImg)
+3) créer la table contenant les images (OracleDB/exportTableImage)
+4) insérer des images dans la table dans la colonne photo
+
+
+
+---
+
 
 ### Sources
 
